@@ -1,0 +1,25 @@
+*{
+    font-family: sans-serif;
+    border: 1px solid rgb(223, 3, 3);
+}
+
+
+#headerFont{  
+    color: rgb(241, 237, 235);
+    text-align: center;
+    font-size: 48px;
+}
+
+.subHeadingleft{
+    color: rgb(255, 118, 54);
+    font-size: 16px;
+    margin-bottom: 1px;
+}
+
+p{
+    font-weight: bold;
+}
+article p{
+    margin-top: 1px;
+    font-size: 12px;
+}
