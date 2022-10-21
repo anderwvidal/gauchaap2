@@ -1,13 +1,13 @@
 *{
     font-family: sans-serif;
-    border: 1px solid rgb(223, 3, 3);
 }
 
 
 #headerFont{  
     color: rgb(241, 237, 235);
     text-align: center;
-    font-size: 48px;
+    font-size: 150px !important;
+    font-weight: bold;
 }
 
 .subHeadingleft{
@@ -15,9 +15,11 @@
     font-size: 16px;
     margin-bottom: 1px;
 }
-
+h4{
+    color: orange
+}
 p{
-    font-weight: bold;
+    font-weight: bold !important;
 }
 article p{
     margin-top: 1px;
